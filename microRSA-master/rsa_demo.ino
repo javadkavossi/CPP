@@ -191,6 +191,7 @@ void printbin(uint8_t* b, uint8_t len) {
   }
   Serial.print(" len=");
   Serial.print(len);
+  
 }
 
 void printbinreverse(uint8_t* b, uint8_t len) {
