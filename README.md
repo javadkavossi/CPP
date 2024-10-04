@@ -47,10 +47,10 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-### Description (with Emoji)
+### Description
 
 "🔗 Advanced project for using ESP32 microcontrollers with blockchain technology 🛡️, featuring secure communication between microservices and hands-on C++ training 💻."
 
 ---
 
-این README پروژه شما را به صورت جامع توضیح می‌دهد و کاربران را برای استفاده از آن راهنمایی می‌کند. اگر نیاز به تغییر یا افزودن جزئیات خاصی دارید، لطفاً بفرمایید.
+
